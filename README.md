@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<a href="https://heatmap.shymike.dev?id=27137&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=27137&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=27137&theme=light">
+    </picture>
+</a>
+
 <!--
 **ClaraPastana/ClaraPastana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
